@@ -1,0 +1,46 @@
+.small-height {
+    height: 200px;
+}
+
+.small-width {
+    width: 200px;
+}
+
+.green-frame {
+    border: 10px ridge #00FFCC;
+    padding: 5px;
+}
+
+.black-frame {
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.pink-frame {
+    border: 8px double #E4A4EE;
+    padding: 6px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+
+img {
+    margin: 8px;
+    width: 200px;
+}
+
+div {
+    padding: 40px;
+}
+
+.container {
+    display: flex;
+    background-color: purple;
+    flex-direction: row;
+}
+
+.image-wraper {
+    
+}
